@@ -1,34 +1,32 @@
 ﻿<Properties StartupConfiguration="{98333BF4-CCE2-424E-97F9-8FB81A35F578}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractAndInterfaces/Characters/Rogue.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractAndInterfaces/Characters/King.cs">
     <Files>
       <File FileName="Factory/Program.cs" Line="16" Column="32" />
       <File FileName="Factory/Interfaces/ITarjeta.cs" Line="7" Column="34" />
       <File FileName="Factory/Classes/TarjetaCredito.cs" Line="6" Column="25" />
       <File FileName="Factory/Classes/TarjetaDebito.cs" Line="17" Column="19" />
       <File FileName="Factory/Tarjetas/FactoryTarjetas.cs" Line="24" Column="55" />
-      <File FileName="AbstractAndInterfaces/Program.cs" Line="18" Column="1" />
-      <File FileName="AbstractAndInterfaces/Interfaces/IWeaponBehavior.cs" Line="6" Column="14" />
+      <File FileName="AbstractAndInterfaces/Program.cs" Line="17" Column="24" />
+      <File FileName="AbstractAndInterfaces/Interfaces/IWeaponBehavior.cs" Line="9" Column="1" />
       <File FileName="AbstractAndInterfaces/Bases/BaseCharacter.cs" Line="8" Column="8" />
       <File FileName="AbstractAndInterfaces/Objects/King.cs" Line="14" Column="10" />
       <File FileName="AbstractAndInterfaces/Bases/SwordBehavior.cs" Line="14" Column="1" />
-      <File FileName="AbstractAndInterfaces/Bases/KnifeBehavior.cs" Line="10" Column="43" />
+      <File FileName="AbstractAndInterfaces/Bases/KnifeBehavior.cs" Line="10" Column="49" />
       <File FileName="AbstractAndInterfaces/Bases/BowAndArrowBehavior.cs" Line="6" Column="50" />
-      <File FileName="AbstractAndInterfaces/Characters/Rogue.cs" Line="4" Column="25" />
+      <File FileName="AbstractAndInterfaces/Characters/Rogue.cs" Line="14" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Factory" expanded="True">
-            <Node name="AbstractAndInterfaces" expanded="True">
-              <Node name="Bases" expanded="True" />
-              <Node name="Characters" expanded="True">
-                <Node name="Rogue.cs" selected="True" />
-              </Node>
-              <Node name="Interfaces" expanded="True" />
-            </Node>
+          <Node name="DesignPatterns" expanded="True">
             <Node name="Factory" expanded="True">
               <Node name="Interfaces" expanded="True" />
               <Node name="Tarjetas" expanded="True" />
+            </Node>
+            <Node name="Strategy" expanded="True" selected="True">
+              <Node name="Bases" expanded="True" />
+              <Node name="Characters" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -38,7 +36,7 @@
   <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.AbstractAndInterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

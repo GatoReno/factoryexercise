@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/bin/Debug/netcoreapp3.1/AbstractAndInterfaces.deps.json
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/bin/Debug/netcoreapp3.1/AbstractAndInterfaces.runtimeconfig.json
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/bin/Debug/netcoreapp3.1/AbstractAndInterfaces.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/bin/Debug/netcoreapp3.1/AbstractAndInterfaces.dll
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/bin/Debug/netcoreapp3.1/AbstractAndInterfaces.pdb
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.dll
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.pdb
+/Users/dmn/Projects/Factory/AbstractAndInterfaces/obj/Debug/netcoreapp3.1/AbstractAndInterfaces.genruntimeconfig.cache
