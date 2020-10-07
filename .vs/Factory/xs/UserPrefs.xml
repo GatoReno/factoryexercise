@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{17C5361D-EF3D-4BDC-8AEE-FBD5746A7B15}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/Tarjetas/FactoryTarjetas.cs">
+    <Files>
+      <File FileName="Factory/Program.cs" Line="7" Column="40" />
+      <File FileName="Factory/Interfaces/ITarjeta.cs" Line="7" Column="34" />
+      <File FileName="Factory/Classes/TarjetaCredito.cs" Line="6" Column="25" />
+      <File FileName="Factory/Classes/TarjetaDebito.cs" Line="17" Column="19" />
+      <File FileName="Factory/Tarjetas/FactoryTarjetas.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Factory" expanded="True">
+            <Node name="Factory" expanded="True">
+              <Node name="Tarjetas" expanded="True">
+                <Node name="FactoryTarjetas.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Factory FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

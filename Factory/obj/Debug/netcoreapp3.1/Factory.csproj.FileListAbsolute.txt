@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/Factory/bin/Debug/netcoreapp3.1/Factory.deps.json
+/Users/dmn/Projects/Factory/Factory/bin/Debug/netcoreapp3.1/Factory.runtimeconfig.json
+/Users/dmn/Projects/Factory/Factory/bin/Debug/netcoreapp3.1/Factory.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/Factory/bin/Debug/netcoreapp3.1/Factory.dll
+/Users/dmn/Projects/Factory/Factory/bin/Debug/netcoreapp3.1/Factory.pdb
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.dll
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.pdb
+/Users/dmn/Projects/Factory/Factory/obj/Debug/netcoreapp3.1/Factory.genruntimeconfig.cache
