@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/Relection/bin/Debug/netcoreapp3.1/Relection.deps.json
+/Users/dmn/Projects/Factory/Relection/bin/Debug/netcoreapp3.1/Relection.runtimeconfig.json
+/Users/dmn/Projects/Factory/Relection/bin/Debug/netcoreapp3.1/Relection.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/Relection/bin/Debug/netcoreapp3.1/Relection.dll
+/Users/dmn/Projects/Factory/Relection/bin/Debug/netcoreapp3.1/Relection.pdb
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.dll
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.pdb
+/Users/dmn/Projects/Factory/Relection/obj/Debug/netcoreapp3.1/Relection.genruntimeconfig.cache

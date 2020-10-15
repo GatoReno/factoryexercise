@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/templatemethod/bin/Debug/netcoreapp3.1/templatemethod.deps.json
+/Users/dmn/Projects/Factory/templatemethod/bin/Debug/netcoreapp3.1/templatemethod.runtimeconfig.json
+/Users/dmn/Projects/Factory/templatemethod/bin/Debug/netcoreapp3.1/templatemethod.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/templatemethod/bin/Debug/netcoreapp3.1/templatemethod.dll
+/Users/dmn/Projects/Factory/templatemethod/bin/Debug/netcoreapp3.1/templatemethod.pdb
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.dll
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.pdb
+/Users/dmn/Projects/Factory/templatemethod/obj/Debug/netcoreapp3.1/templatemethod.genruntimeconfig.cache

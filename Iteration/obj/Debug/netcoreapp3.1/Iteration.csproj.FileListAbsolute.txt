@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/Iteration/bin/Debug/netcoreapp3.1/Iteration.deps.json
+/Users/dmn/Projects/Factory/Iteration/bin/Debug/netcoreapp3.1/Iteration.runtimeconfig.json
+/Users/dmn/Projects/Factory/Iteration/bin/Debug/netcoreapp3.1/Iteration.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/Iteration/bin/Debug/netcoreapp3.1/Iteration.dll
+/Users/dmn/Projects/Factory/Iteration/bin/Debug/netcoreapp3.1/Iteration.pdb
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.dll
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.pdb
+/Users/dmn/Projects/Factory/Iteration/obj/Debug/netcoreapp3.1/Iteration.genruntimeconfig.cache

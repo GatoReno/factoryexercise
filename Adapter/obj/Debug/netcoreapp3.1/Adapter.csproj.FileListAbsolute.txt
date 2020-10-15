@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/Adapter/bin/Debug/netcoreapp3.1/Adapter.deps.json
+/Users/dmn/Projects/Factory/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.json
+/Users/dmn/Projects/Factory/Adapter/bin/Debug/netcoreapp3.1/Adapter.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/Adapter/bin/Debug/netcoreapp3.1/Adapter.dll
+/Users/dmn/Projects/Factory/Adapter/bin/Debug/netcoreapp3.1/Adapter.pdb
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.dll
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.pdb
+/Users/dmn/Projects/Factory/Adapter/obj/Debug/netcoreapp3.1/Adapter.genruntimeconfig.cache

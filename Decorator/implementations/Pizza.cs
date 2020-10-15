@@ -1,10 +1,13 @@
 ﻿using System;
+using Decorator.interfaces;
+
 namespace Decorator.implementations
 {
-    public class Pizza
+    public class Pizza : IPizza
     {
-        public Pizza()
+        public string GetPizzaType()
         {
+            return "Hawaian";
         }
     }
 }

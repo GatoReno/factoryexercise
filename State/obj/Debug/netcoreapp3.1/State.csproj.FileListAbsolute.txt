@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/State/bin/Debug/netcoreapp3.1/State.deps.json
+/Users/dmn/Projects/Factory/State/bin/Debug/netcoreapp3.1/State.runtimeconfig.json
+/Users/dmn/Projects/Factory/State/bin/Debug/netcoreapp3.1/State.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/State/bin/Debug/netcoreapp3.1/State.dll
+/Users/dmn/Projects/Factory/State/bin/Debug/netcoreapp3.1/State.pdb
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.dll
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.pdb
+/Users/dmn/Projects/Factory/State/obj/Debug/netcoreapp3.1/State.genruntimeconfig.cache

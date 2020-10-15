@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/DeadLock/bin/Debug/netcoreapp3.1/DeadLock.deps.json
+/Users/dmn/Projects/Factory/DeadLock/bin/Debug/netcoreapp3.1/DeadLock.runtimeconfig.json
+/Users/dmn/Projects/Factory/DeadLock/bin/Debug/netcoreapp3.1/DeadLock.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/DeadLock/bin/Debug/netcoreapp3.1/DeadLock.dll
+/Users/dmn/Projects/Factory/DeadLock/bin/Debug/netcoreapp3.1/DeadLock.pdb
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.dll
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.pdb
+/Users/dmn/Projects/Factory/DeadLock/obj/Debug/netcoreapp3.1/DeadLock.genruntimeconfig.cache
