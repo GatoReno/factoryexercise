@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factoriales", "Factoriales\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinProblem", "CoinProblem\CoinProblem.csproj", "{0125950F-DCC0-4DE8-95E8-257E0BEC4499}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestNumber", "ClosestNumber\ClosestNumber.csproj", "{8529CD2F-D087-4CDA-B7CA-B0C3D49A0A9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,5 +99,9 @@ Global
 		{0125950F-DCC0-4DE8-95E8-257E0BEC4499}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0125950F-DCC0-4DE8-95E8-257E0BEC4499}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0125950F-DCC0-4DE8-95E8-257E0BEC4499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8529CD2F-D087-4CDA-B7CA-B0C3D49A0A9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8529CD2F-D087-4CDA-B7CA-B0C3D49A0A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8529CD2F-D087-4CDA-B7CA-B0C3D49A0A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8529CD2F-D087-4CDA-B7CA-B0C3D49A0A9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

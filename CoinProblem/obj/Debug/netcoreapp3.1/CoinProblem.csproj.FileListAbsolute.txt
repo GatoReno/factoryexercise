@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.csprojAssemblyReference.cache
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/CoinProblem/bin/Debug/netcoreapp3.1/CoinProblem.deps.json
+/Users/dmn/Projects/Factory/CoinProblem/bin/Debug/netcoreapp3.1/CoinProblem.runtimeconfig.json
+/Users/dmn/Projects/Factory/CoinProblem/bin/Debug/netcoreapp3.1/CoinProblem.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/CoinProblem/bin/Debug/netcoreapp3.1/CoinProblem.dll
+/Users/dmn/Projects/Factory/CoinProblem/bin/Debug/netcoreapp3.1/CoinProblem.pdb
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.dll
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.pdb
+/Users/dmn/Projects/Factory/CoinProblem/obj/Debug/netcoreapp3.1/CoinProblem.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.AssemblyInfo.cs
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Factory/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.deps.json
+/Users/dmn/Projects/Factory/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.json
+/Users/dmn/Projects/Factory/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.runtimeconfig.dev.json
+/Users/dmn/Projects/Factory/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/dmn/Projects/Factory/BinarySearch/bin/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.dll
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.pdb
+/Users/dmn/Projects/Factory/BinarySearch/obj/Debug/netcoreapp3.1/BinarySearch.genruntimeconfig.cache

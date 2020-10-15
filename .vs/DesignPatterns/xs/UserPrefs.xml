@@ -1,28 +1,28 @@
-﻿<Properties StartupConfiguration="{FA02F995-6777-48C5-9B35-4BB9A90AC679}|Default">
+﻿<Properties StartupConfiguration="{D2DAF807-8620-47D7-BBFC-F2891292F086}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClosestNumber FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CoinProblem FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CoinProblem PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.composite FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CoinProblem/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BinarySearch/Program.cs">
     <Files>
       <File FileName="Iteration/interfaces/Iterator.cs" Line="6" Column="31" />
-      <File FileName="Generics/Program.cs" Line="22" Column="13" />
-      <File FileName="Generics/BookList.cs" Line="21" Column="1" />
-      <File FileName="Generics/models/Book.cs" Line="10" Column="1" />
-      <File FileName="BinarySearch/Program.cs" Line="14" Column="27" />
-      <File FileName="Factoriales/Program.cs" Line="23" Column="34" />
-      <File FileName="CoinProblem/Program.cs" Line="1" Column="1" />
+      <File FileName="Generics/Program.cs" />
+      <File FileName="Generics/BookList.cs" />
+      <File FileName="Generics/models/Book.cs" />
+      <File FileName="BinarySearch/Program.cs" Line="77" Column="25" />
+      <File FileName="Factoriales/Program.cs" />
+      <File FileName="CoinProblem/Program.cs" />
+      <File FileName="ClosestNumber/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DesignPatterns" expanded="True">
-            <Node name="CoinProblem" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-            <Node name="Factoriales" expanded="True" />
-          </Node>
+          <Node name="DesignPatterns" expanded="True" />
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -37,7 +37,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.Strategy PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.BinarySearch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BinarySearch PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Decorator PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
